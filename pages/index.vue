@@ -4,21 +4,16 @@
       <Logo />
       <h1 class="title">vue-webdev-challenge</h1>
       <div class="links">
+        <NuxtLink to="/cards">
+          <a class="button--green"> Card Component </a>
+        </NuxtLink>
         <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--green"
-        >
-          Documentation
-        </a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://github.com/OmarMokhfi/vue-webdev-challenge"
           target="_blank"
           rel="noopener noreferrer"
           class="button--grey"
         >
-          GitHub
+          GitHub Project
         </a>
       </div>
     </div>

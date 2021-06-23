@@ -10,4 +10,6 @@ sessionsNb: 2,632
 docsTitle: Docs
 docsNb: 46
 action: Schedule Session
+light: Light Mode
+dark: Dark Mode
 ---

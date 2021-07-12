@@ -18,4 +18,5 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
-# vue-webdev-challenge
+# DEMO
+Preview: https://tender-albattani-bf00fe.netlify.app/
